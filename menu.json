@@ -1,0 +1,278 @@
+{
+  "menu": {
+    "bebidas": {
+      "liquados_con_yogurt": [
+        {
+          "id": 1,
+          "nombre": "Mamey/yogurt",
+          "precio": 35.0,
+          "ingredientes": ["mamey","yogurt"],
+          "opciones": []
+        },
+        {
+          "id": 2,
+          "nombre": "Plátano/yogurt",
+          "precio": 35.0,
+          "ingredientes": ["plátano","yogurt"],
+          "opciones": []
+        },
+        {
+          "id": 3,
+          "nombre": "Fresa/yogurt",
+          "precio": 35.0,
+          "ingredientes": ["fresa","yogurt"],
+          "opciones": []
+        },
+        {
+          "id": 4,
+          "nombre": "Papaya/yogurt",
+          "precio": 35.0,
+          "ingredientes": ["papaya","yogurt"],
+          "opciones": []
+        }
+      ],
+      "combinaciones": [
+        {
+          "id": 5,
+          "nombre": "Frutos Rojos",
+          "precio": 35.0,
+          "ingredientes": ["fresa","frambuesa","zarzamora"],
+          "opciones": []
+        },
+        {
+          "id": 6,
+          "nombre": "Tropical",
+          "precio": 35.0,
+          "ingredientes": ["mango","plátano","naranja"],
+          "opciones": []
+        },
+        {
+          "id": 7,
+          "nombre": "Verde",
+          "precio": 35.0,
+          "ingredientes": ["piña","apio","espinaca"],
+          "opciones": []
+        }
+      ],
+      "aguas": [
+        {
+          "id": 8,
+          "nombre": "Jamaica",
+          "precio": 25.0,
+          "ingredientes": ["flor de jamaica","agua"],
+          "opciones": ["natural","endulzada"]
+        },
+        {
+          "id": 9,
+          "nombre": "Horchata",
+          "precio": 25.0,
+          "ingredientes": ["arroz", "agua","canela","azúcar"],
+          "opciones": []
+        },
+        {
+          "id": 10,
+          "nombre": "Limón",
+          "precio": 25.0,
+          "ingredientes": [ "limón","agua"],
+          "opciones": ["natural","endulzada"]
+        },
+        {
+          "id": 11,
+          "nombre": "Tamarindo",
+          "precio": 25.0,
+          "ingredientes": ["tamarindo","agua"],
+          "opciones": ["natural","endulzada"]
+        }
+      ],
+      "jugos": [
+        {
+          "id": 12,
+          "nombre": "Naranja",
+          "precio": 30.0,
+          "ingredientes": ["naranja"],
+          "opciones": []
+        },
+        {
+          "id": 13,
+          "nombre": "Zanahoria",
+          "precio": 30.0,
+          "ingredientes": ["zanahoria"],
+          "opciones": []
+        },
+        {
+          "id": 14,
+          "nombre": "Manzana",
+          "precio": 30.0,
+          "ingredientes": ["manzana"],
+          "opciones": []
+        }
+      ],
+      "frappes": [
+        {
+          "id": 15,
+          "nombre": "Vainilla",
+          "precio": 40.0,
+          "ingredientes": ["vainilla","leche","hielo","endulzante"],
+          "opciones": ["con crema batida","sin crema batida"]
+        },
+        {
+          "id": 16,
+          "nombre": "Chocolate",
+          "precio": 40.0,
+          "ingredientes": ["chocolate","leche","hielo","endulzante"],
+          "opciones": ["con crema batida","sin crema batida"]
+        },
+        {
+          "id": 17,
+          "nombre": "Oreo",
+          "precio": 45.0,
+          "ingredientes": ["galletas oreo","leche","hielo","endulzante"],
+          "opciones": ["con crema batida","sin crema batida"]
+        }
+      ],
+      "cafe y te": [
+        {
+          "id": 18,
+          "nombre": "Americano",
+          "precio": 20.0,
+          "ingredientes": ["café","agua"],
+          "opciones": ["solo","con leche","con azúcar"]
+        },
+        {
+          "id": 19,
+          "nombre": "Expresso",
+          "precio": 25.0,
+          "ingredientes": ["café"],
+          "opciones": ["simple","doble"]
+        },
+        {
+          "id": 20,
+          "nombre": "Cappuccino",
+          "precio": 30.0,
+          "ingredientes": ["café","leche"],
+          "opciones": ["con canela","con chocolate en polvo"]
+        },
+        {
+          "id": 21,
+          "nombre": "Latte",
+          "precio": 30.0,
+          "ingredientes": ["café","leche"],
+          "opciones": ["vainilla","caramelo","avellana"]
+        },
+        {
+          "id": 23,
+          "nombre": "Mocaccino",
+          "precio": 35.0,
+          "ingredientes": ["café","chocolate","leche"],
+          "opciones": ["con crema batida","sin crema batida"]
+        },
+        {
+          "id": 24,
+          "nombre": "Chocolate",
+          "precio": 30.0,
+          "ingredientes": ["chocolate","leche"],
+          "opciones": ["con crema batida","sin crema batida"]
+        },
+        {
+          "id": 25,
+          "nombre": "Té",
+          "precio": 20.0,
+          "ingredientes": ["bolsa de té","agua"],
+          "opciones": ["negro","verde","manzanilla","hierbabuena","con limon","con miel"]
+        }
+      ]
+    },
+    "alimentos": {
+      "clasicos": [
+        {
+          "id": 26,
+          "nombre": "Yogurt/Fruta",
+          "precio": 50.0,
+          "ingredientes": ["yogurt","fruta","granola"],
+          "opciones": ["con miel","sin miel","yogurt natural","yogurt griego"]
+        },
+        {
+          "id": 27,
+          "nombre": "Omelette",
+          "precio": 60.0,
+          "ingredientes": ["huevos"],
+          "opciones": ["jamón y queso","champiñones","espinacas y queso","solo queso"]
+        },
+        {
+          "id": 28,
+          "nombre": "Molletes",
+          "precio": 55.0,
+          "ingredientes": ["bolillo","frijoles","queso gratinado"],
+          "opciones": ["sencillos","con chorizo", "pico de gallo"]
+        },
+        {
+          "id": 29,
+          "nombre": "Chilaquiles",
+          "precio": 70.0,
+          "ingredientes": ["totopos de maíz","salsa (roja o verde)","cebolla","queso fresco","crema"],
+          "opciones": ["con pollo","con huevo","sin proteína","rojos","verdes"]
+        }
+      ],
+      "postres": [
+        {
+          "id": 30,
+          "nombre": "Pastel choco",
+          "precio": 40.0,
+          "ingredientes": [],
+          "opciones": []
+        },
+        {
+          "id": 31,
+          "nombre": "Pastel fresa",
+          "precio": 40.0,
+          "ingredientes": [],
+          "opciones": []
+        },
+        {
+          "id": 32,
+          "nombre": "Pastel zanahoria",
+          "precio": 45.0,
+          "ingredientes": [],
+          "opciones": []
+        },
+        {
+          "id": 33,
+          "nombre": "Pastel red",
+          "precio": 45.0,
+          "ingredientes": [],
+          "opciones": []
+        },
+        {
+          "id": 34,
+          "nombre": "Galletas",
+          "precio": 20.0,
+          "ingredientes": [],
+          "opciones": ["vainilla", "chispas de chocolate", "mantequilla"]
+        },
+        {
+          "id": 35,
+          "nombre": "Muffin",
+          "precio": 20.0,
+          "ingredientes": [],
+          "opciones": ["chispas de chocolate", "chocolate", "vainilla", "arandanos"]
+        }
+      ],
+      "sandwiches": [
+        {
+          "id": 36,
+          "nombre": "Club Sandwich",
+          "precio": 70.0,
+          "ingredientes": ["pan de caja","pechuga de pavo","jamón","tocino","lechuga", "tomate","mayonesa"],
+          "opciones": ["pan blanco","pan integral"]
+        },
+        {
+          "id": 37,
+          "nombre": "Sándwich Atún",
+          "precio": 60.0,
+          "ingredientes": ["pan integral","atún", "aguacate","mayonesa","apio", "cebolla"],
+          "opciones": []
+        }
+      ]
+    }
+  }
+}

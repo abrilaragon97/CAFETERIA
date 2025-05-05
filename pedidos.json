@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "cliente": "Cliente",
+        "productos": [
+            {
+                "id": 18,
+                "nombre": "Americano",
+                "precio": 20.0,
+                "opciones": {}
+            }
+        ],
+        "total": 20.0
+    }
+]

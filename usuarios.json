@@ -1,0 +1,27 @@
+[
+    {
+        "nombre": "Gerente",
+        "rol": "Gerente",
+        "password": "Gerecafe123"
+    },
+    {
+        "nombre": "Administrador",
+        "rol": "Administrador",
+        "password": "Admicafe123"
+    },
+    {
+        "nombre": "Empleado1",
+        "rol": "Empleado",
+        "password": "Empcafe123"
+    },
+    {
+        "nombre": "Empleado2",
+        "rol": "Empleado",
+        "password": "Empcafe456"
+    },
+    {
+        "nombre": "Empleado3",
+        "rol": "Empleado",
+        "password": "Empcafe789"
+    }
+]
